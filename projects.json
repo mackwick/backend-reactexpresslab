@@ -1,0 +1,14 @@
+[
+  {
+    "name": "What are we drinking tonight?",
+    "live": "https://ga-unit1-project.vercel.app/",
+    "git": "https://github.com/mackwick/GA-Unit1_Project",
+    "image": "https://i.imgur.com/ylXzr6s.png"
+  },
+  {
+    "name": "Potluck",
+    "live": "https://potluck.onrender.com/",
+    "git": "https://github.com/mackwick/potluck",
+    "image": "https://i.imgur.com/Lehmmpz.png"
+  }
+]
