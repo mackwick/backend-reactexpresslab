@@ -13,7 +13,7 @@ app.use(cors());
 //ROUTES
 //HOME ROUTE
 app.get("/", (req, res) => {
-  res.send("<h2>This is the homepage</h2>");
+  res.send("Hello World");
 });
 
 //PROJECTS ROUTE
